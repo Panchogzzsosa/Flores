@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JessicaaSun/flower-blooming.git"
+    "url": "git+https://github.com/Panchogzzsosa/Flores.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/JessicaaSun/flower-blooming/issues"
+    "url": "https://github.com/Panchogzzsosa/Flores/issues"
   },
-  "homepage": "https://github.com/JessicaaSun/flower-blooming#readme",
+  "homepage": "https://panchogzzsosa.github.io/Flores/",
   "dependencies": {
     "sass": "^1.97.3"
   },
