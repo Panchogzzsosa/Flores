@@ -1,0 +1,31 @@
+{
+  "name": "flower-blooming",
+  "version": "1.0.0",
+  "description": "Welcome to the Flower repository! This collection includes illustrative examples and tutorials focused on web technologies such as HTML, SCSS, and JS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server",
+    "watch": "sass --watch style.scss:style.css",
+    "predeploy": "npx sass style.scss style.css",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaaSun/flower-blooming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JessicaaSun/flower-blooming/issues"
+  },
+  "homepage": "https://github.com/JessicaaSun/flower-blooming#readme",
+  "dependencies": {
+    "sass": "^1.97.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "http-server": "^14.1.1"
+  }
+}
